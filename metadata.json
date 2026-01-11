@@ -1,0 +1,5 @@
+{
+  "name": "Neural Guardians Dashboard",
+  "description": "Enterprise-grade Industrial IoT safety dashboard for steel mills featuring real-time AI video analysis and worker safety scoring.",
+  "requestFramePermissions": []
+}
